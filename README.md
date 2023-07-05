@@ -16,3 +16,6 @@ Features available in the dataset:
 - PWF: Power Failure binary feature
 - OSF: Overstate Failure binary feature
 - RNF: Random Failure binary feature
+
+Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s3e17  
+Kaggle Notebook: https://www.kaggle.com/code/mnokno/machine-failures-visual-eda-simple-submission  
